@@ -1,16 +1,14 @@
-### Hi there 👋
+<h2> Hi there 👋, I'm Jose Reinaldo! </h2>
 
-<!--
-**defnullx/defnullx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Jose Reinaldo Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-reinaldo-da-silva-a93a2b239/)
+[![Jose Reinaldo Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/defnullx)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an avid Mobile Developer with good front-end, back-end & desktop development background.
+
+- 🔭 I’m currently working on my own project
+- 🌱 I’m currently learning solidity programing
+- 👯 I’m looking to collaborate on web3 projects
+- 🤔 I’m looking for remote work
+- 💬 Ask me about anything and I will try to help you
+- 😄 Pronouns: he/him
