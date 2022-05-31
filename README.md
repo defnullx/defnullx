@@ -8,7 +8,7 @@ I'm currently building a new project in the Web3 ecosystem.
 
 I'm also writting a series of articles about software development to Revelo Community Network.
 
-Have cool discoveries and Ask me anything. I will do my best to answer.
+Have cool discoveries and ask me anything. I will do my best to answer.
 
 
 ⌐◨-◨
