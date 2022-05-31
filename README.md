@@ -1,12 +1,14 @@
-<h2> hi there 👋 </h2>
+<h2> Hi there 👋 </h2>
 
-i'm reinaldo. welcome to my github!
+Reinaldo here! Welcome to my github!
 
-i'm a developer with good front-end, back-end, mobile & desktop development background.
+I'm a developer with good front-end, back-end, mobile & desktop software development background.
 
-i'm currently building a new project in the web3 ecosystem.
+I'm currently building a new project in the Web3 ecosystem.
 
-have cool discoveries. ask me anything and i will try to answer.
+I'm also writting a series of articles about software development to Revelo Community Network.
+
+Have cool discoveries and Ask me anything. I will do my best to answer.
 
 
 ⌐◨-◨
